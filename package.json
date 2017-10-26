@@ -1,0 +1,19 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "gets news articles and allows users to comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvannaharris/news-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvannaharris/news-scraper/issues"
+  },
+  "homepage": "https://github.com/yvannaharris/news-scraper#readme"
+}
