@@ -17,7 +17,7 @@ var ArticleSchema = new Schema({
 	summary: {
 		type: String,
 		required: true
-	}
+	},
 
 	note: {
 		type: Schema.Types.ObjectId,
